@@ -1,1 +1,1 @@
-"""preciso de uma linguagem no repositório, se não dá agonia."""
+print("""preciso de uma linguagem no repositório, se não dá agonia.""")
